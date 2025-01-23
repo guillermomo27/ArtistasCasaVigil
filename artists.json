@@ -1,0 +1,19 @@
+{
+    "artists": [
+        {
+            "name": "Artista 1",
+            "description": "Descripción breve del artista 1.",
+            "image": "https://via.placeholder.com/300x200"
+        },
+        {
+            "name": "Artista 2",
+            "description": "Descripción breve del artista 2.",
+            "image": "https://via.placeholder.com/300x200"
+        },
+        {
+            "name": "Artista 3",
+            "description": "Descripción breve del artista 3.",
+            "image": "https://via.placeholder.com/300x200"
+        }
+    ]
+}
